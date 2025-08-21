@@ -1,4 +1,4 @@
-/* Reset default margin and padding */
+
 * {
     margin: 0;
     padding: 0;
@@ -17,7 +17,6 @@ body {
     padding: 20px;
 }
 
-/* Game wrapper */
 #wrapper {
     background: rgba(255, 255, 255, 0.05);
     padding: 25px;
@@ -28,7 +27,6 @@ body {
     max-width: 400px;
 }
 
-/* Headings */
 h1 {
     font-size: 1.8rem;
     margin-bottom: 10px;
@@ -41,7 +39,6 @@ p {
     color: #ccc;
 }
 
-/* Form styling */
 .form {
     margin-top: 15px;
 }
@@ -63,7 +60,6 @@ input[type="text"] {
     margin-right: 5px;
 }
 
-/* Submit button */
 .guessSubmit {
     padding: 10px 15px;
     background-color: #ffb347;
@@ -79,7 +75,6 @@ input[type="text"] {
     background-color: #ffa500;
 }
 
-/* Result section */
 .resultparas {
     margin-top: 20px;
     text-align: center;
